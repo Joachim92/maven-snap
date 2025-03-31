@@ -91,8 +91,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub OWNER Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/Joachim920/maven-snap</url>
+      <name>joachim92</name>
+      <url>https://maven.pkg.github.com/joachim92/maven-snap</url>
     </repository>
   </distributionManagement>
 </project>
